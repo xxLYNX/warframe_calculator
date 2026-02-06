@@ -1,0 +1,15 @@
+name,applies_to,effect_type,effect_value,max_rank,base_drain,description
+Pressure Point,melee,flat_damage,0.12,10,11,+12% melee damage per rank
+Primed Pressure Point,melee,flat_damage,0.165,10,14,+16.5% melee damage per rank
+Organ Shatter,melee,flat_crit_damage,0.30,5,10,+30% melee critical damage per rank
+Serration,primary,flat_damage,0.15,10,14,+15% primary damage per rank
+Split Chamber,primary,flat_multishot,0.20,5,15,+20% multishot per rank
+Point Strike,primary,flat_crit_chance,0.30,5,9,+30% critical chance per rank
+Vital Sense,primary,flat_crit_damage,0.30,5,10,+30% critical damage per rank
+Vitality,warframe,flat_health,0.40,10,6,+40% health per rank
+Steel Fiber,warframe,flat_armor,0.275,10,6,+27.5% armor per rank
+Redirection,warframe,flat_shields,0.44,10,6,+44% shields per rank
+Streamline,warframe,flat_efficiency,0.06,5,6,+6% ability efficiency per rank
+Intensify,warframe,flat_strength,0.05,10,6,+5% ability strength per rank
+Constitution,warframe,flat_duration,0.10,10,6,+10% ability duration per rank
+Stretch,warframe,flat_range,0.15,10,6,+15% ability range per rank

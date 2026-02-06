@@ -1,2 +1,4 @@
 *.class
 .vscode/
+wfdata/warframes.json
+saves/
